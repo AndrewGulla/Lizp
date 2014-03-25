@@ -1,3 +1,11 @@
+/**
+* @author Andrew Gulla (100395486)
+* @section DESCRIPTION
+* @version 1.0
+* @file Lizp.g4
+* This file contains the grammar
+* and rules for the CFG
+*/
 grammar Lizp;
 
 WS: [ \t] -> skip;
